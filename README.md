@@ -100,16 +100,3 @@ The linear regression model performed well on the test dataset, delivering accur
 
 HomePricer successfully demonstrates how machine learning can be applied to predict real estate prices. It provided the team hands-on experience in both data science and full-stack web development.
 
-### 🔮 Future Enhancements:
-- Integrate real-time data APIs for live pricing trends
-- Compare performance with advanced models (e.g., Decision Trees, XGBoost)
-- Add user login and saved predictions
-- Deploy on cloud platforms (like Heroku or Vercel)
-
----
-
-## 🙏 Acknowledgements
-
-We thank our mentors, faculty, and peers for their guidance and support. This project was a valuable experience in both machine learning and web development.
-
----
